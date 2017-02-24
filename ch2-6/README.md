@@ -25,10 +25,11 @@ function test() {
 
 test();
 ```
-[id]: ec.jpg
+![Alt text][ec.jpg]
+
 
 ### Execution Context
   - 目前執行之 scope，如果要呼叫一個在該exection context中沒有的變項時，它會往它的 outer environment去找。
   - refer. - http://chocochocoduck.tumblr.com/post/144812296253/js-%E8%AB%87%E8%AB%87execution-context
   - 
-[id]: ec.jpg
+![Alt text][ec.jpg]
