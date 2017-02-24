@@ -1,10 +1,10 @@
-# Conceptual Aside: Syntax Parsers, Execution Contexts, and Lexical Environments
+ï»¿# Conceptual Aside: Syntax Parsers, Execution Contexts, and Lexical Environments
 
 
 
 ### * Syntax Parser
   - A program that reads your code and determines what it does and if its grammer is valid.
-Jave Script »P ¹q¸£¤§¶¡·¾³qªºÂàÄ¶´C¤¶¡A±N Jave Script »yªk³v¦r¸ÑªR¨ÃÂà¬°¹q¸£¥iÃÑ§O¤§¤º®e
+Jave Script èˆ‡ é›»è…¦ä¹‹é–“æºé€šçš„è½‰è­¯åª’ä»‹ï¼Œå°‡ Jave Script èªæ³•é€å­—è§£æä¸¦è½‰ç‚ºé›»è…¦å¯è­˜åˆ¥ä¹‹å…§å®¹
 
 
 ### * Lexical Environment
@@ -12,5 +12,5 @@ Jave Script »P ¹q¸£¤§¶¡·¾³qªºÂàÄ¶´C¤¶¡A±N Jave Script »yªk³v¦r¸ÑªR¨ÃÂà¬°¹q¸£¥iÃÑ
 
 
 ### * Execution Context
-  - ´xºŞµ{¦¡°õ¦æ¤§¬yµ{
+  - æŒç®¡ç¨‹å¼åŸ·è¡Œä¹‹æµç¨‹
   - refer. - http://chocochocoduck.tumblr.com/post/144812296253/js-%E8%AB%87%E8%AB%87execution-context
