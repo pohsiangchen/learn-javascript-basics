@@ -10,20 +10,7 @@
 ### Lexical Environment
   - where something sits physically in the code you write
 
-function last() {
-  console.log(name);
-}
-
-function test() {
-  var name = 'Jason';
-  console.log(name);
-  
-  last();
-}
-
-test();
-```
-![Alt text](ec.png)
+![Alt text](le.png)
 
 ### Execution Context
   - 目前執行之 scope，如果要呼叫一個在該exection context中沒有的變項時，它會往它的 outer environment去找。
