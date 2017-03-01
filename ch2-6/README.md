@@ -9,8 +9,6 @@
 
 ### Lexical Environment
   - where something sits physically in the code you write
-```javascript
-var name = 'Jack';
 
 function last() {
   console.log(name);
