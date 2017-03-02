@@ -7,3 +7,4 @@ The notes of course 'JavaScript: Understanding the Weird Parts'
 * [The Execution Context - Creation and Hoisting](ch2-10/README.md)
 * [Conceptual Aside: Javascript and 'undefined'](ch2-11/README.md)
 * [The Execution Context - Code Execution](ch2-12/README.md)
+* [Conceptual Aside: Single Threaded, Synchronous Execution](ch2-13/README.md)
