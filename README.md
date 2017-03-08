@@ -11,3 +11,4 @@ The notes of course 'JavaScript: Understanding the Weird Parts'
 * [Function Invocation and the Execution Stack](ch2-14/README.md)
 * [Functions, Context, and Variable Environments](ch2-15/README.md)
 * [The Scope Chain](ch2-16/README.md)
+* [Scope, ES6, and let](ch2-17/README.md)
