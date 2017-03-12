@@ -12,3 +12,4 @@ The notes of course 'JavaScript: Understanding the Weird Parts'
 * [Functions, Context, and Variable Environments](ch2-15/README.md)
 * [The Scope Chain](ch2-16/README.md)
 * [Scope, ES6, and let](ch2-17/README.md)
+* [What About Asynchronous Callbacks?](ch2-18/README.md)
